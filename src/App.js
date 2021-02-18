@@ -9,6 +9,7 @@ function App() {
       <header className="App-header">
 
         <p className="Smells">This is the start of my new site!</p>
+        <p className="Smells">Hello heroku!</p>
 
 
         {/*<a
