@@ -10,16 +10,13 @@ function App() {
 
         <p className="Smells">This is the start of my new site!</p>
         <p className="Smells">Hello heroku!</p>
+        <p> This is me! </p>
+        <p> This is still me! </p>
+        <p> This is still still me! </p>
+        
 
 
-        {/*<a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>*/}
+    
       </header>
     </div>
   );
