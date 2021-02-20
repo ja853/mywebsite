@@ -13,7 +13,7 @@
   },
   "scripts": {
     "build": "react-scripts build",
-    "start": "node server.js",
+    "start": "react-scripts build && node server.js",
     "start:dev": "react-scripts start",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
